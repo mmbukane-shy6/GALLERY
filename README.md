@@ -14,6 +14,10 @@ https://github.com/mmbukane-shy6/GALLERY.git
 #### Link to live site
 https://sheilagallery.herokuapp.com/
 
+## BDD
+<img src="/images/home.png"/>
+
+
 ## Setup and installations
 * Fork the data onto your own personal repository.
 * Clone Project to your machine
