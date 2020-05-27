@@ -16,6 +16,9 @@ https://sheilagallery.herokuapp.com/
 
 ## BDD
 <img src="/images/home.png"/>
+<img src="/images/gallery.png"/>
+<img src="/images/link.png"/>
+
 
 
 ## Setup and installations
