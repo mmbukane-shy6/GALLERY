@@ -9,7 +9,7 @@ SHEILA EGEIDZA
 This is an online platform where I display my photos for others to see.A user can click on an image to view the image details. A user can also copy an image link. 
 
 #### Github link
-
+https://github.com/mmbukane-shy6/GALLERY.git
 
 #### Link to live site
 
@@ -39,7 +39,7 @@ This is an online platform where I display my photos for others to see.A user ca
 
 #### Clone the Repo and rename it to suit your needs.
 ```bash
-```
+```https://github.com/mmbukane-shy6/GALLERY.git
 #### Initialize git and add the remote repository
 ```bash
 git init
