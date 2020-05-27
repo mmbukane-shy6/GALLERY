@@ -1,1 +1,1 @@
-python-3.7.3
+web: gunicorn gallery.wsgi --log-file -
