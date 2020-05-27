@@ -12,7 +12,7 @@ This is an online platform where I display my photos for others to see.A user ca
 https://github.com/mmbukane-shy6/GALLERY.git
 
 #### Link to live site
-
+https://sheilagallery.herokuapp.com/
 
 ## Setup and installations
 * Fork the data onto your own personal repository.
